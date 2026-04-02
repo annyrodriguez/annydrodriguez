@@ -42,6 +42,7 @@ My work combines **epidemiology, data science, and public health research** with
 - Survey-weighted analysis
 - Data visualization
 - Reproducible reporting
+- Teaching: <a href="https://annyrodriguez.github.io/mph716/" target="_blank">MPH 716: R and Health Sciences</a>
 
 ### Research and Applied Practice
 
