@@ -11,9 +11,10 @@ title: ""
 
 </video>
 
-My work combines **epidemiology, data science, and public health research** with a strong emphasis on **applied analytics, reproducibility, and communication**.
 
 ## Technical Skills
+
+My work combines **epidemiology, data science, and public health research** with a strong emphasis on **applied analytics, reproducibility, and communication**.
 
 ### Programming and Software
 
