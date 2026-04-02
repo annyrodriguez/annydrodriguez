@@ -4,90 +4,97 @@
     "href": "resume.html#assistant-professor",
     "title": "Education",
     "section": "Assistant Professor",
-    "text": "Assistant Professor\nMorehouse School of Medicine, Department of Public Health Education\n2024 – Present\n- Teach graduate-level courses in Epidemiology, Biostatistics, and Health Informatics\n- Develop and lead curriculum design for MPH and PhD programs\n- Mentor students in research, data science, and scientific writing"
+    "text": "Assistant Professor\nMorehouse School of Medicine\nCurrent\nI lead applied work at the intersection of epidemiology, data science, and public health, combining real-world data with advanced analytics to generate actionable insights. My role integrates teaching, research, and hands-on data analysis using modern statistical and computational approaches.\nCore Skills Demonstrated:\n\nApplied statistical modeling and predictive analytics using large-scale health datasets\n\nMachine learning applications in public health and clinical research\n\nAnalysis of real-world data, including EHR (Epic, Cerner), survey, and clinical datasets\n\nDesign of reproducible data workflows using R, Quarto, and GitHub\n\nTranslation of analytic findings into actionable insights for public health and research\n\nKey Contributions:\n\nDesigned and taught graduate-level courses in Epidemiology, Biostatistics, and Health Informatics with a strong emphasis on applied data science\n\nDeveloped hands-on curriculum using real-world datasets to train students in statistical programming and data analysis\n\nLed research projects focused on cancer screening behaviors, clinical trial participation, and health disparities\n\nMentored students in data analysis, manuscript development, and reproducible research practices"
   },
   {
-    "objectID": "resume.html#postdoctoral-fellow",
-    "href": "resume.html#postdoctoral-fellow",
+    "objectID": "resume.html#research-and-data-science-experience",
+    "href": "resume.html#research-and-data-science-experience",
     "title": "Education",
-    "section": "Postdoctoral Fellow",
-    "text": "Postdoctoral Fellow\nStanford University School of Medicine, Department of Biomedical Data Science\n2023 – 2024\n- Conducted research on AI/ML applications in health equity\n- Collaborated on interdisciplinary projects in clinical informatics\n- Mentored students in statistical computing and reproducible research"
+    "section": "Research and Data Science Experience",
+    "text": "Research and Data Science Experience\nAcross my academic and research roles, I have consistently applied data-driven approaches to answer complex public health questions, working with diverse datasets and analytic methods.\nTechnical and Analytical Experience:\n\nBuilt regression and predictive models (linear, logistic, Poisson) to evaluate health outcomes and risk factors\n\nConducted survey-weighted analyses using large national datasets (e.g., BRFSS)\n\nApplied machine learning techniques including decision trees, clustering, and classification methods\n\nPerformed data cleaning, transformation, and feature engineering for large, complex datasets\n\nDeveloped reproducible analysis pipelines and reports using Quarto and version control\n\nData Environments and Sources:\n\nElectronic Health Records (Epic, Cerner)\n\nClinical and observational datasets\n\nNational survey datasets (e.g., BRFSS, NHANES)\n\nPublic health surveillance data"
   },
   {
-    "objectID": "resume.html#covid-19-data-analyst-covid-19-task-force",
-    "href": "resume.html#covid-19-data-analyst-covid-19-task-force",
+    "objectID": "resume.html#selected-institutional-experience",
+    "href": "resume.html#selected-institutional-experience",
     "title": "Education",
-    "section": "COVID-19 Data Analyst – COVID-19 Task Force",
-    "text": "COVID-19 Data Analyst – COVID-19 Task Force\nFlorida International University, Department of Epidemiology\nAug 2021 – Dec 2023\n- Led data compilation and curation of COVID-19 surveillance data from CDC and FL DOH\n- Built an interactive Shiny dashboard to visualize county-level COVID-19 trends in real-time\n- Applied statistical modeling and spatial analysis to support public health decision-making"
+    "section": "Selected Institutional Experience",
+    "text": "Selected Institutional Experience\nUniversity of Miami, Miller School of Medicine – Department of Neurology\nResearch Support Specialist\n\nConducted statistical analyses using SPSS and SAS on stroke-related datasets\n\nDesigned and managed REDCap databases and data collection workflows\n\nCoordinated data-sharing efforts with hospitals across Florida to support statewide stroke initiatives\n\nCollaborated with multidisciplinary teams to support clinical and public health research"
   },
   {
-    "objectID": "resume.html#clinical-research-coordinator",
-    "href": "resume.html#clinical-research-coordinator",
+    "objectID": "resume.html#professional-strengths",
+    "href": "resume.html#professional-strengths",
     "title": "Education",
-    "section": "Clinical Research Coordinator",
-    "text": "Clinical Research Coordinator\nUniversity of Miami, Miller School of Medicine – Department of Neurology\nJune 2019 – Aug 2020\n- Managed NIH and industry-funded stroke clinical trials, ensuring compliance and data integrity\n- Maintained IRB submissions, adverse event reporting, and study documentation\n- Created training protocols and managed clinical databases for multi-site studies"
+    "section": "Professional Strengths",
+    "text": "Professional Strengths\nMy experience reflects a strong combination of domain expertise and technical skill, allowing me to bridge public health, data science, and real-world application.\n\nTranslating complex data into clear, actionable insights\n\nApplying rigorous epidemiologic methods within modern data science frameworks\n\nWorking across clinical, research, and population health data environments\n\nDesigning reproducible, scalable workflows for data analysis\n\nCommunicating findings to both technical and non-technical audiences"
   },
   {
-    "objectID": "resume.html#research-support-specialist",
-    "href": "resume.html#research-support-specialist",
+    "objectID": "resume.html#career-direction",
+    "href": "resume.html#career-direction",
     "title": "Education",
-    "section": "Research Support Specialist",
-    "text": "Research Support Specialist\nUniversity of Miami, Miller School of Medicine – Department of Neurology\nAug 2018 – June 2019\n- Conducted statistical analyses on stroke datasets using SPSS and SAS - Developed REDCap databases to streamline registry-based data collection\n- Supported statewide research initiatives through hospital coordination and data sharing"
+    "section": "Career Direction",
+    "text": "Career Direction\nI am interested in opportunities that allow me to apply my expertise in health data science, real-world data, and predictive analytics to support decision-making in healthcare, public health, and industry settings. Let’s connect if you are looking to collaborate."
   },
   {
-    "objectID": "resume.html#research-analyst",
-    "href": "resume.html#research-analyst",
-    "title": "Education",
-    "section": "Research Analyst",
-    "text": "Research Analyst\nBascom Palmer Eye Institute – Department of Biostatistics\nAug 2016 – Aug 2018\n- Performed statistical analyses for 20+ NIH- and NEI-funded ophthalmic studies\n- Synthesized and interpreted results for manuscripts, abstracts, and presentations\n- Ensured regulatory compliance with IRB protocols and adverse event reporting"
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Anny D. Rodriguez, Ph.D., MPH",
+    "section": "",
+    "text": "My work combines epidemiology, data science, and public health research with a strong emphasis on applied analytics, reproducibility, and communication."
   },
   {
-    "objectID": "courses.html#resources-coming-soon",
-    "href": "courses.html#resources-coming-soon",
-    "title": "Courses I’m Teaching",
-    "section": "Resources coming soon!",
-    "text": "Resources coming soon!"
+    "objectID": "courses.html#technical-skills",
+    "href": "courses.html#technical-skills",
+    "title": "Anny D. Rodriguez, Ph.D., MPH",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nProgramming and Software\n\nR\nSAS\nSPSS\nSTATA\nQuarto\nGit and GitHub\n\n\n\nData Sources and Environments\n\nElectronic Health Records (Epic and Cerner)\nClinical datasets\nSurvey datasets\nPublic health surveillance data\nPopulation-level health data\n\n\n\nAnalytic Methods\n\nDescriptive and inferential statistics\nRegression modeling\nPredictive modeling\nMachine learning applications in public health\nSurvey-weighted analysis\nData visualization\nReproducible reporting\n\n\n\nResearch and Applied Practice\n\nEpidemiologic study design\nHealth disparities research\nClinical research recruitment and participation analysis\nHealth informatics\nQuantitative data interpretation\nManuscript and report development"
+  },
+  {
+    "objectID": "courses.html#strengths-i-bring",
+    "href": "courses.html#strengths-i-bring",
+    "title": "Anny D. Rodriguez, Ph.D., MPH",
+    "section": "Strengths I Bring",
+    "text": "Strengths I Bring\nBeyond technical tools, I bring a strong ability to connect analytic work with meaningful public health questions. I enjoy translating complex data into clear insights, collaborating across disciplines, and designing work that is rigorous, reproducible, and useful in practice."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Anny D. Rodriguez, Ph.D., MPH",
     "section": "",
-    "text": "I am always looking for ways to collaborate, please feel free to reach me using any of the following:\n\n📧 Email: adrodriguez@msm.edu | annydrodriguez7@gmail.com\n🔗 LinkedIn Profile\n🔗 Github Profile\n🏛 Morehouse School of Medicine"
+    "text": "I am always looking for ways to collaborate, please feel free to reach me using any of the following:\n\n📧 Email: adrodriguez@msm.edu | annydrodriguez7@gmail.com\n🔗 LinkedIn Profile\n🔗 Github Profile\nCurrently at: 🏛 Morehouse School of Medicine"
   },
   {
-    "objectID": "projects.html#predictive-analytics-for-cancer-screening",
-    "href": "projects.html#predictive-analytics-for-cancer-screening",
-    "title": "Selected Projects",
-    "section": "Predictive Analytics for Cancer Screening",
-    "text": "Predictive Analytics for Cancer Screening\nUsed machine learning algorithms on EHR data to identify populations at risk of missing breast and cervical cancer screenings. Funded by Microsoft - publication forthcoming."
-  },
-  {
-    "objectID": "projects.html#doctoral-dissertation-shinyapp",
-    "href": "projects.html#doctoral-dissertation-shinyapp",
-    "title": "Selected Projects",
-    "section": "Doctoral Dissertation ShinyApp",
-    "text": "Doctoral Dissertation ShinyApp\nMy dissertation project focused on identifying spatial and sociodemographic disparities in breast and cervical cancer screening across Florida using advanced data visualization and geographic information systems (GIS). Leveraging publicly available cancer screening and population health data, I developed an interactive ShinyApp to map screening rates and examine associations with social vulnerability, race/ethnicity, and rural-urban classification. The project highlights key areas with low screening uptake and high vulnerability, offering actionable insights to guide targeted public health interventions and resource allocation. Screening for Me"
-  },
-  {
-    "objectID": "projects.html#covid-19-dashboard",
-    "href": "projects.html#covid-19-dashboard",
-    "title": "Selected Projects",
-    "section": "COVID-19 Dashboard",
-    "text": "COVID-19 Dashboard\nDeveloped a ShinyApp to visualize COVID-19 trends in Florida counties, integrating case rates, hospitalizations, and vaccination data. This was my first attempt at a ShinyApp. COVID-19 Dashboard"
+    "objectID": "projects.html#ai-and-machine-learning-for-cancer-screening-promotion",
+    "href": "projects.html#ai-and-machine-learning-for-cancer-screening-promotion",
+    "title": "What I Do",
+    "section": "AI and Machine Learning for Cancer Screening Promotion",
+    "text": "AI and Machine Learning for Cancer Screening Promotion\nI have developed analytic approaches to better understand factors associated with breast and cervical cancer screening behaviors. This work integrates demographic, clinical, and behavioral data to identify patterns that can inform more targeted and equitable intervention strategies.\nFocus areas:\n\nPredictive modeling\nRisk factor identification\nScreening behavior analysis\nHealth disparities"
   },
   {
     "objectID": "projects.html#clinical-trial-recruitment-optimization",
     "href": "projects.html#clinical-trial-recruitment-optimization",
-    "title": "Selected Projects",
+    "title": "What I Do",
     "section": "Clinical Trial Recruitment Optimization",
-    "text": "Clinical Trial Recruitment Optimization\nApplied natural language processing to recruitment call transcripts to enhance diverse participant enrollment strategies."
+    "text": "Clinical Trial Recruitment Optimization\nMy research has examined recruitment conversations and participation barriers among underrepresented populations in clinical research. Using computational methods and applied analytics, I explore how communication patterns, trust, and structural barriers shape participation in research.\nFocus areas:\n\nRepresentation in clinical research\nRecruitment analytics\nNatural language processing applications\nHealth equity"
   },
   {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Courses I’m Teaching",
-    "section": "",
-    "text": "Courses I’m Teaching\n\nIntroduction to Epidemiology\nIntroduction to Biostatistics\nR and Health Sciences Link: MPH 716\n\n\n\nCourses I’ve Taught\n\nIntroduction to Epidemiology\nEpidemiology II - Observational Design\nCancer Epidemiology\nEpidemiology of Health Disparities\nMethods in Evidence-Based Public Health\nAdvanced R Computing\n\n\n\nCourses Being Developed\nI am in the process of finalizing a new concentration within our MPH program, but also developing a PhD program as well.\nIf you would like to collaborate, please feel free to connect!"
+    "objectID": "projects.html#population-health-analytics-using-national-survey-data",
+    "href": "projects.html#population-health-analytics-using-national-survey-data",
+    "title": "What I Do",
+    "section": "Population Health Analytics Using National Survey Data",
+    "text": "Population Health Analytics Using National Survey Data\nI use large-scale public health datasets, including survey data, to investigate determinants of preventive care, developmental outcomes, and access-related barriers. These projects emphasize rigorous statistical methods and public health relevance.\nFocus areas:\n\nSurvey-weighted analysis\nPreventive care utilization\nChild and maternal health\nPopulation-level disparities"
+  },
+  {
+    "objectID": "projects.html#public-health-informatics-and-data-science-education",
+    "href": "projects.html#public-health-informatics-and-data-science-education",
+    "title": "What I Do",
+    "section": "Public Health Informatics and Data Science Education",
+    "text": "Public Health Informatics and Data Science Education\nIn addition to applied research, I build practical training experiences that prepare students to use modern analytic tools in public health settings. This includes curriculum development in R, reproducible reporting, and health data analysis.\nFocus areas:\n\nReproducible workflows\nApplied R programming\nData communication\nWorkforce development\n\n\nProject Approach\nAcross projects, I aim to connect rigorous analytic methods with real-world impact. My work is grounded in strong epidemiologic thinking, modern data science methods, and a commitment to improving population health through actionable insight."
+  },
+  {
+    "objectID": "projects.html#websites-for-my-projects",
+    "href": "projects.html#websites-for-my-projects",
+    "title": "What I Do",
+    "section": "Websites for My Projects",
+    "text": "Websites for My Projects\n\nCOVID-19 Shiny Dashboard: COVID-19 Dashboard\nBreast and Cervical Cancer Knowledge - Ph.D. Dissertation: Screening for Me"
   }
 ]

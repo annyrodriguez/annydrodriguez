@@ -1,9 +1,13 @@
 ---
 title: ""
 ---
+
+```{=html}
 <video autoplay muted loop playsinline 
          style="width: 100%; max-width: 1000px; height: auto; display: block; border: none;">
-<source src="resume.mp4" type="video/mp4">
+```
+
+<source src="experience.mp4" type="video/mp4">
 
 </video>
 
@@ -20,67 +24,76 @@ title: ""
 
 ------------------------------------------------------------------------
 
-# Academic Appointments
+# Experience
 
-## Assistant Professor
+## Assistant Professor  
+**Morehouse School of Medicine**  
+*Current*
 
-*Morehouse School of Medicine, Department of Public Health Education*\
-*2024 – Present*\
-- Teach graduate-level courses in Epidemiology, Biostatistics, and Health Informatics\
-- Develop and lead curriculum design for MPH and PhD programs\
-- Mentor students in research, data science, and scientific writing
+I lead applied work at the intersection of epidemiology, data science, and public health, combining real-world data with advanced analytics to generate actionable insights. My role integrates teaching, research, and hands-on data analysis using modern statistical and computational approaches.
 
-## Postdoctoral Fellow
+**Core Skills Demonstrated:**
 
-*Stanford University School of Medicine, Department of Biomedical Data Science*\
-*2023 – 2024*\
-- Conducted research on AI/ML applications in health equity\
-- Collaborated on interdisciplinary projects in clinical informatics\
-- Mentored students in statistical computing and reproducible research
+- Applied statistical modeling and predictive analytics using large-scale health datasets  
+- Machine learning applications in public health and clinical research  
+- Analysis of real-world data, including EHR (Epic, Cerner), survey, and clinical datasets  
+- Design of reproducible data workflows using R, Quarto, and GitHub  
+- Translation of analytic findings into actionable insights for public health and research  
 
-------------------------------------------------------------------------
+**Key Contributions:**
 
-# Research Experience
+- Designed and taught graduate-level courses in Epidemiology, Biostatistics, and Health Informatics with a strong emphasis on applied data science  
+- Developed hands-on curriculum using real-world datasets to train students in statistical programming and data analysis  
+- Led research projects focused on cancer screening behaviors, clinical trial participation, and health disparities  
+- Mentored students in data analysis, manuscript development, and reproducible research practices  
 
-## COVID-19 Data Analyst – COVID-19 Task Force
+---
 
-*Florida International University, Department of Epidemiology*\
-*Aug 2021 – Dec 2023*\
-- Led data compilation and curation of COVID-19 surveillance data from CDC and FL DOH\
-- Built an interactive Shiny dashboard to visualize county-level COVID-19 trends in real-time\
-- Applied statistical modeling and spatial analysis to support public health decision-making
+## Research and Data Science Experience
 
-## Clinical Research Coordinator
+Across my academic and research roles, I have consistently applied data-driven approaches to answer complex public health questions, working with diverse datasets and analytic methods.
 
-*University of Miami, Miller School of Medicine – Department of Neurology*\
-*June 2019 – Aug 2020*\
-- Managed NIH and industry-funded stroke clinical trials, ensuring compliance and data integrity\
-- Maintained IRB submissions, adverse event reporting, and study documentation\
-- Created training protocols and managed clinical databases for multi-site studies
+**Technical and Analytical Experience:**
 
-## Research Support Specialist
+- Built regression and predictive models (linear, logistic, Poisson) to evaluate health outcomes and risk factors  
+- Conducted survey-weighted analyses using large national datasets (e.g., BRFSS)  
+- Applied machine learning techniques including decision trees, clustering, and classification methods  
+- Performed data cleaning, transformation, and feature engineering for large, complex datasets  
+- Developed reproducible analysis pipelines and reports using Quarto and version control  
 
-*University of Miami, Miller School of Medicine – Department of Neurology*\
-*Aug 2018 – June 2019*\
-- Conducted statistical analyses on stroke datasets using SPSS and SAS - Developed REDCap databases to streamline registry-based data collection\
-- Supported statewide research initiatives through hospital coordination and data sharing
+**Data Environments and Sources:**
 
-## Research Analyst
+- Electronic Health Records (Epic, Cerner)  
+- Clinical and observational datasets  
+- National survey datasets (e.g., BRFSS, NHANES)  
+- Public health surveillance data  
 
-*Bascom Palmer Eye Institute – Department of Biostatistics*\
-*Aug 2016 – Aug 2018*\
-- Performed statistical analyses for 20+ NIH- and NEI-funded ophthalmic studies\
-- Synthesized and interpreted results for manuscripts, abstracts, and presentations\
-- Ensured regulatory compliance with IRB protocols and adverse event reporting
+---
 
-------------------------------------------------------------------------
+## Selected Institutional Experience
 
-# Skills
+**University of Miami, Miller School of Medicine – Department of Neurology**  
+*Research Support Specialist*
 
--   **Programming & Analysis**: R, Python, SAS, SQL\
--   **Data Tools**: Shiny, Tableau, Quarto, Git, REDCap\
--   **Surveys**: SurveyMonkey, Google Forms, Qualtrics\
--   **Methods**: Machine Learning, Predictive Modeling, GIS Mapping, EHR/Claims Data Analysis\
--   **Communication**: Scientific writing, teaching, interdisciplinary collaboration
+- Conducted statistical analyses using SPSS and SAS on stroke-related datasets  
+- Designed and managed REDCap databases and data collection workflows  
+- Coordinated data-sharing efforts with hospitals across Florida to support statewide stroke initiatives  
+- Collaborated with multidisciplinary teams to support clinical and public health research  
 
-------------------------------------------------------------------------
+---
+
+## Professional Strengths
+
+My experience reflects a strong combination of domain expertise and technical skill, allowing me to bridge public health, data science, and real-world application.
+
+- Translating complex data into clear, actionable insights  
+- Applying rigorous epidemiologic methods within modern data science frameworks  
+- Working across clinical, research, and population health data environments  
+- Designing reproducible, scalable workflows for data analysis  
+- Communicating findings to both technical and non-technical audiences  
+
+---
+
+## Career Direction
+
+I am interested in opportunities that allow me to apply my expertise in health data science, real-world data, and predictive analytics to support decision-making in healthcare, public health, and industry settings. Let's connect if you are looking to collaborate.

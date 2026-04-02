@@ -2,17 +2,17 @@
 title: ""
 ---
 
-<div style="width: 100%; display: flex; justify-content: center; margin-bottom: 2rem;">
-  <video autoplay muted loop playsinline 
+```{=html}
+<video autoplay muted loop playsinline 
          style="width: 100%; max-width: 1000px; height: auto; display: block; border: none;">
-    <source src="contact.mp4" type="video/mp4">
-  </video>
-</div>
+```
+
+<source src="contact.mp4" type="video/mp4">
+</video>
 
 I am always looking for ways to collaborate, please feel free to reach me using any of the following:
 
-- 📧 Email: adrodriguez@msm.edu | annydrodriguez7@gmail.com 
-- 🔗 <a href="https://linkedin.com/in/annydrodriguez" target="_blank">LinkedIn Profile</a>
-- 🔗 <a href="https://github.com/annyrodriguez" target="_blank">Github Profile</a>
-- 🏛 Morehouse School of Medicine
-
+-   📧 Email: adrodriguez\@msm.edu \| annydrodriguez7\@gmail.com
+-   🔗 <a href="https://linkedin.com/in/annydrodriguez" target="_blank">LinkedIn Profile</a>
+-   🔗 <a href="https://github.com/annyrodriguez" target="_blank">Github Profile</a>
+-   Currently at: 🏛 Morehouse School of Medicine

@@ -2,20 +2,20 @@
 title: ""
 ---
 
-<div style="width: 100%; display: flex; justify-content: center; margin-bottom: 2rem;">
-  <video autoplay muted loop playsinline 
-         style="width: 100%; max-width: 1000px; height: auto; display: block; border: none;">
-    <source src="logo.mp4" type="video/mp4">
-  </video>
-</div>
+::: {style="width: 100%; display: flex; justify-content: center; margin-bottom: 2rem;"}
+```{=html}
+<video autoplay muted loop playsinline 
+       style="width: 100%; max-width: 1000px; height: auto; display: block; border: none;">
+  <source src="logo.mp4" type="video/mp4">
+</video>
+```
+:::
 
----
-
-<div style="display: flex; justify-content: center; margin-bottom: 2rem;">
-  <video autoplay muted loop playsinline 
-         style="width: 100%; max-width: 1600px; height: auto; border-radius: 12px;">
-    <source src="This is Me.mp4" type="video/mp4">
-  </video>
-</div>
-
----
+::: {style="width: 100%; display: flex; justify-content: center; margin-bottom: 2rem;"}
+```{=html}
+<video autoplay muted loop playsinline 
+       style="width: 100%; max-width: 1000px; height: auto; display: block; border: none;">
+  <source src="This is Me.mp4" type="video/mp4">
+</video>
+```
+:::

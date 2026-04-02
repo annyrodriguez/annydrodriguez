@@ -7,27 +7,50 @@ title: ""
          style="width: 100%; max-width: 1000px; height: auto; display: block; border: none;">
 ```
 
-<source src="courses.mp4" type="video/mp4">
+<source src="skills.mp4" type="video/mp4">
 
 </video>
-# [Courses I'm Teaching]{style="color: #F055A5;"}
 
--   Introduction to Epidemiology
--   Introduction to Biostatistics
--   R and Health Sciences Link: <a href="https://annyrodriguez.github.io/mph716/" target="_blank">MPH 716</a>
-  
+My work combines **epidemiology, data science, and public health research** with a strong emphasis on **applied analytics, reproducibility, and communication**.
 
-# [Courses I've Taught]{style="color: #7A88FE;"}
+## Technical Skills
 
--   Introduction to Epidemiology
--   Epidemiology II - Observational Design
--   Cancer Epidemiology
--   Epidemiology of Health Disparities
--   Methods in Evidence-Based Public Health
--   Advanced R Computing
+### Programming and Software
 
-# [Courses Being Developed]{style="color: #FF9B28;"}
+- R
+- SAS
+- SPSS
+- STATA
+- Quarto
+- Git and GitHub
 
-I am in the process of finalizing a new concentration within our MPH program, but also developing a PhD program as well.
+### Data Sources and Environments
 
-If you would like to collaborate, please feel free to connect!
+- Electronic Health Records (Epic and Cerner)
+- Clinical datasets
+- Survey datasets
+- Public health surveillance data
+- Population-level health data
+
+### Analytic Methods
+
+- Descriptive and inferential statistics
+- Regression modeling
+- Predictive modeling
+- Machine learning applications in public health
+- Survey-weighted analysis
+- Data visualization
+- Reproducible reporting
+
+### Research and Applied Practice
+
+- Epidemiologic study design
+- Health disparities research
+- Clinical research recruitment and participation analysis
+- Health informatics
+- Quantitative data interpretation
+- Manuscript and report development
+
+## Strengths I Bring
+
+Beyond technical tools, I bring a strong ability to connect analytic work with meaningful public health questions. I enjoy translating complex data into clear insights, collaborating across disciplines, and designing work that is rigorous, reproducible, and useful in practice.

@@ -9,13 +9,14 @@ website:
       - href: index.qmd
         text: Home
       - href: resume.qmd
-        text: Resume
+        text: Experience
       - href: projects.qmd
         text: Projects
       - href: courses.qmd
-        text: Courses
+        text: Skills
       - href: contact.qmd
         text: Contact
+
 
 format:
   html:

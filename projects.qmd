@@ -2,23 +2,79 @@
 title: ""
 ---
 
+```{=html}
 <video autoplay muted loop playsinline 
-         style="width: 100%; max-width: 1000px; height: auto; display: block; border: none;"> <source src="projects.mp4" type="video/mp4"> </video>
+         style="width: 100%; max-width: 1000px; height: auto; display: block; border: none;">
+```
+
+<source src="projects.mp4" type="video/mp4">
+
+</video>
+
+# What I Do
+
+I work at the **intersection** of **analytics, public health, and applied research** to solve real-world health problems. My experience includes analyzing large health datasets, building predictive and statistical models, designing reproducible workflows, and translating findings into actionable recommendations for research, healthcare, and public health practice.
+
+# Areas of Focus
+
+- Real-world data analysis using EHR, survey, and clinical datasets
+- Predictive modeling and machine learning for health applications
+- Health equity and disparities research
+- Clinical research recruitment and representation
+- Public health informatics and reproducible analytics
 
 # Selected Projects
 
-## [Predictive Analytics for Cancer Screening]{style="color: #F055A5;"}
+## [AI and Machine Learning for Cancer Screening Promotion]{style="color: #F055A5;"}
 
-Used machine learning algorithms on EHR data to identify populations at risk of missing breast and cervical cancer screenings. Funded by Microsoft - publication forthcoming.
+I have developed analytic approaches to better understand factors associated with breast and cervical cancer screening behaviors. This work integrates demographic, clinical, and behavioral data to identify patterns that can inform more targeted and equitable intervention strategies.
 
-## [Doctoral Dissertation ShinyApp]{style="color: #FF9B28;"}
+**Focus areas:**
 
-My dissertation project focused on identifying spatial and sociodemographic disparities in breast and cervical cancer screening across Florida using advanced data visualization and geographic information systems (GIS). Leveraging publicly available cancer screening and population health data, I developed an interactive ShinyApp to map screening rates and examine associations with social vulnerability, race/ethnicity, and rural-urban classification. The project highlights key areas with low screening uptake and high vulnerability, offering actionable insights to guide targeted public health interventions and resource allocation. <a href="https://annyrodriguez.shinyapps.io/Breast-and-Cervical-Cancer/" target="_blank">Screening for Me</a>
-
-## [COVID-19 Dashboard]{style="color: #DAA520;"}
-
-Developed a ShinyApp to visualize COVID-19 trends in Florida counties, integrating case rates, hospitalizations, and vaccination data. This was my first attempt at a ShinyApp. <a href="https://annyrodriguez.shinyapps.io/COVID19/" target="_blank">COVID-19 Dashboard</a>
+- Predictive modeling
+- Risk factor identification
+- Screening behavior analysis
+- Health disparities
 
 ## [Clinical Trial Recruitment Optimization]{style="color: #7A88FE;"}
 
-Applied natural language processing to recruitment call transcripts to enhance diverse participant enrollment strategies.
+My research has examined recruitment conversations and participation barriers among underrepresented populations in clinical research. Using computational methods and applied analytics, I explore how communication patterns, trust, and structural barriers shape participation in research.
+
+**Focus areas:**
+
+- Representation in clinical research
+- Recruitment analytics
+- Natural language processing applications
+- Health equity
+
+## [Population Health Analytics Using National Survey Data]{style="color: #FF9B28;"}
+
+I use large-scale public health datasets, including survey data, to investigate determinants of preventive care, developmental outcomes, and access-related barriers. These projects emphasize rigorous statistical methods and public health relevance.
+
+**Focus areas:**
+
+- Survey-weighted analysis
+- Preventive care utilization
+- Child and maternal health
+- Population-level disparities
+
+## [Public Health Informatics and Data Science Education]{style="color: #98C54E;"}
+
+In addition to applied research, I build practical training experiences that prepare students to use modern analytic tools in public health settings. This includes curriculum development in R, reproducible reporting, and health data analysis.
+
+**Focus areas:**
+
+- Reproducible workflows
+- Applied R programming
+- Data communication
+- Workforce development
+
+### Project Approach
+
+Across projects, I aim to connect rigorous analytic methods with real-world impact. My work is grounded in strong epidemiologic thinking, modern data science methods, and a commitment to improving population health through actionable insight.
+
+
+## Websites for My Projects
+
+- **COVID-19 Shiny Dashboard**: <a href="https://annyrodriguez.shinyapps.io/COVID19/" target="_blank">COVID-19 Dashboard</a>
+- **Breast and Cervical Cancer Knowledge - Ph.D. Dissertation**: <a href="https://annyrodriguez.shinyapps.io/Breast-and-Cervical-Cancer/" target="_blank">Screening for Me</a>
