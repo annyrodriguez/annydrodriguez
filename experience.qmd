@@ -16,6 +16,8 @@ title: ""
 -   **Ph.D., Public Health (Epidemiology)**\
     Florida International University
 
+    -   C.V. Starr Scholarship Reciepient - 2020-2024
+
 -   **Master of Public Health (MPH), Epidemiology**\
     Florida International University
 
@@ -26,75 +28,77 @@ title: ""
 
 # Experience
 
-## Assistant Professor
+### [Assistant Professor — Morehouse School of Medicine]{style="color: #F055A5;"}
 
-**Morehouse School of Medicine**\
-*Current*
+*Department of Public Health Education · Atlanta, GA · July 2024 – Present*
 
-I lead applied work at the intersection of epidemiology, data science, and public health, combining real-world data with advanced analytics to generate actionable insights. My role integrates teaching, research, and hands-on data analysis using modern statistical and computational approaches.
+-   Lead applied research and graduate education at the intersection of epidemiology, data science, and health equity.
+-   Teach graduate courses in Epidemiology, Biostatistics, Research Methods, and Applied R Programming <a href="https://annyrodriguez.github.io/mph716/" target="_blank">(MPH 716)</a>, and develop a new Advanced Data Visualization course.
+-   Design and lead the Epidemiology and Health Data Science concentration curriculum.
+-   Conduct observational studies using BRFSS, NHANES, and EHR data to evaluate cancer screening disparities and health outcomes.
+-   Build reproducible analytic pipelines in R, Quarto, and GitHub; mentor MPH students in data analysis and manuscript development.
+-   Recipient of the AUC Data Science Initiative Summer Curriculum Development Award (2024).
 
-**Core Skills Demonstrated:**
+**Key areas:** R · Quarto · GitHub · BRFSS/NHANES · Regression modeling · Curriculum design · Health disparities
 
--   Applied statistical modeling and predictive analytics using large-scale health datasets\
--   Machine learning applications in public health and clinical research\
--   Analysis of real-world data, including EHR (Epic, Cerner), survey, and clinical datasets\
--   Design of reproducible data workflows using R, Quarto, and GitHub\
--   Translation of analytic findings into actionable insights for public health and research
+### [AHA Diversity in Clinical Trials Postdoctoral Fellow]{style="color:#7A88FE;"}
 
-**Key Contributions:**
+*Stanford University & Morehouse School of Medicine · Atlanta, GA · Jan 2024 – Jul 2024*
 
--   Designed and taught graduate-level courses in Epidemiology, Biostatistics, and Health Informatics with a strong emphasis on applied data science\
--   Developed hands-on curriculum using real-world datasets to train students in statistical programming and data analysis\
--   Led research projects focused on cancer screening behaviors, clinical trial participation, and health disparities\
--   Mentored students in data analysis, manuscript development, and reproducible research practices
+-   Applied machine learning and large language models (LLMs) to analyze health datasets in collaboration with cardiologists and cancer epidemiologists.
+-   Co-authored publications on LLM evaluation for cancer communication and ML-based recruitment analysis, including work published in *JMIR Cancer* and *JMIR Formative Research*.
+-   Contributed to the TOTAL clinical trials diversity protocol, now published in *Contemporary Clinical Trials* (2026).
+-   Mentored junior researchers in data science methods and contributed to grant writing and conference presentations.
 
-------------------------------------------------------------------------
+**Key areas:** Python · NLP/LLMs · Machine learning · Clinical trials · Health equity
 
-## Research and Data Science Experience
+### [National Teaching Fellow in Data Science]{style="color: #FF9B28;"}
 
-Across my academic and research roles, I have consistently applied data-driven approaches to answer complex public health questions, working with diverse datasets and analytic methods.
+*NIMHD/RCMI-funded · Morehouse School of Medicine & Florida International University · Sep 2022 – Present*
 
-**Technical and Analytical Experience:**
+-   Funded by the National Institute on Minority Health and Health Disparities (NIMHD) through the RCMI network to advance data science education in minority-serving institutions.
+-   Designed and taught a national R programming curriculum.
+-   Led Software Carpentry workshops at the University of Miami and a 10-week national RCMI course.
+-   Presented on R for data science in public health at the International Data Science Conference Europe 2022 in Belgrade, Serbia.
 
--   Built regression and predictive models (linear, logistic, Poisson) to evaluate health outcomes and risk factors\
--   Conducted survey-weighted analyses using large national datasets (e.g., BRFSS)\
--   Applied machine learning techniques including decision trees, clustering, and classification methods\
--   Performed data cleaning, transformation, and feature engineering for large, complex datasets\
--   Developed reproducible analysis pipelines and reports using Quarto and version control
+**Key areas:** R programming education · NIMHD · RCMI · Workforce development
 
-**Data Environments and Sources:**
+### [COVID-19 Data Analyst — Florida International University]{style="color: #98C54E;"}
 
--   Electronic Health Records (Epic, Cerner)\
--   Clinical and observational datasets\
--   National survey datasets (e.g., BRFSS, NHANES)\
--   Public health surveillance data
+*Department of Epidemiology · Miami, FL · Aug 2021 – Dec 2023*
 
-------------------------------------------------------------------------
+-   Analyzed large-scale surveillance data from the Florida Department of Health and CDC across Miami-Dade, Broward, and Palm Beach counties.
+-   Built an interactive R Shiny dashboard to visualize real-time COVID-19 trends for municipal and county officials; the dashboard was published as a citable output <a href="https://annyrodriguez.shinyapps.io/COVID19/" target="_blank">(Rodriguez et al., 2022)</a>.
+-   Developed reproducible data workflows for continuous monitoring and reporting.
+-   Contributed to the FIU 3MT Top 10 Finalist presentation (2023).
 
-## Selected Institutional Experience
+**Key areas:** R/Shiny · CDC/FLDOH data · Surveillance · Dashboard design
 
-**University of Miami, Miller School of Medicine – Department of Neurology**\
-*Research Support Specialist*
+### [Clinical Research Coordinator — University of Miami, Miller School of Medicine]{style="color: #F055A5;"}
 
--   Conducted statistical analyses using SPSS and SAS on stroke-related datasets\
--   Designed and managed REDCap databases and data collection workflows\
--   Coordinated data-sharing efforts with hospitals across Florida to support statewide stroke initiatives\
--   Collaborated with multidisciplinary teams to support clinical and public health research
+*Department of Neurology · Miami, FL · Jun 2019 – Aug 2020*
 
-------------------------------------------------------------------------
+-   Coordinated NIH- and industry-sponsored stroke clinical trials involving more than 100 participants, including recruitment, screening, and follow-up.
+-   Worked with EHR data (Epic, Cerner) to support patient-level outcome analyses.
+-   Oversaw IRB submissions, regulatory compliance, and protocol documentation.
 
-## Professional Strengths
+**Key areas:** EHR (Epic/Cerner) · REDCap · Clinical trials · IRB/Compliance
 
-My experience reflects a strong combination of domain expertise and technical skill, allowing me to bridge public health, data science, and real-world application.
+### [Research Support Specialist — University of Miami, Miller School of Medicine]{style="color:#7A88FE;"}
 
--   Translating complex data into clear, actionable insights\
--   Applying rigorous epidemiologic methods within modern data science frameworks\
--   Working across clinical, research, and population health data environments\
--   Designing reproducible, scalable workflows for data analysis\
--   Communicating findings to both technical and non-technical audiences
+*Department of Neurology · Miami, FL · Aug 2018 – Jun 2019*
 
-------------------------------------------------------------------------
+-   Conducted statistical analyses using SAS and SPSS on stroke and registry datasets.
+-   Designed and managed REDCap databases for clinical data collection workflows.
+-   Coordinated multi-site data sharing with hospitals statewide.
+-   Organized the Florida Stroke Registry Annual Meeting.
 
-## Career Direction
+**Key areas:** SAS · SPSS · REDCap · Multi-site coordination
 
-I am interested in opportunities that allow me to apply my expertise in health data science, real-world data, and predictive analytics to support decision-making in healthcare, public health, and industry settings. Let's connect if you are looking to collaborate.
+### [Research Analyst — Bascom Palmer Eye Institute]{style="color: #FF9B28;"}
+
+*Department of Biostatistics · Miami, FL · Aug 2016 – Aug 2018*
+
+-   Performed statistical analyses for more than 20 NIH- and NEI-funded ophthalmic studies using SPSS and REDCap.
+-   Co-authored peer-reviewed publications, including work published in the *Journal of Alzheimer's Disease* (2018).
+-   Maintained IRB compliance documentation and contributed to conference abstracts and manuscripts.

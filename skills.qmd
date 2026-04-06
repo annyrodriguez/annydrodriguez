@@ -11,47 +11,246 @@ title: ""
 
 </video>
 
-
 ## Technical Skills
 
 My work combines **epidemiology, data science, and public health research** with a strong emphasis on **applied analytics, reproducibility, and communication**.
 
-### Programming and Software
+```{=html}
+<style>
+:root {
+  --card-bg: #BFdFF3;
+  --card-border: #CCD537;
+  --card-accent: #F055A5;
+  --card-text: #7A88FE;
+  --card-muted: #FF9B28;
+  --card-shadow: 0 10px 24px rgba(0, 0, 0, 0.06);
+  --card-shadow-hover: 0 18px 36px rgba(0, 0, 0, 0.10);
+}
 
-- R
-- SAS
-- SPSS
-- STATA
-- Quarto
-- Git and GitHub
+.skills-section {
+  margin-top: 1.2rem;
+  margin-bottom: 2rem;
+}
 
-### Data Sources and Environments
+.skills-section h2 {
+  margin-bottom: 0.8rem;
+}
 
-- Electronic Health Records (Epic and Cerner)
-- Clinical datasets
-- Survey datasets
-- Public health surveillance data
-- Population-level health data
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 18px;
+  margin-top: 1rem;
+}
 
-### Analytic Methods
+.skill-card {
+  position: relative;
+  background: linear-gradient(180deg, #ffffff 0%, var(--card-bg) 100%);
+  border: 1px solid var(--card-border);
+  border-left: 5px solid var(--card-accent);
+  border-radius: 18px;
+  padding: 20px 20px 18px 20px;
+  box-shadow: var(--card-shadow);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+  overflow: hidden;
+}
 
-- Descriptive and inferential statistics
-- Regression modeling
-- Predictive modeling
-- Machine learning applications in public health
-- Survey-weighted analysis
-- Data visualization
-- Reproducible reporting
-- Teaching: <a href="https://annyrodriguez.github.io/mph716/" target="_blank">MPH 716: R and Health Sciences</a>
+.skill-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--card-shadow-hover);
+  border-color: #FF9B28;
+}
 
-### Research and Applied Practice
+.skill-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at top right, rgba(125, 143, 139, 0.10), transparent 42%);
+  pointer-events: none;
+}
 
-- Epidemiologic study design
-- Health disparities research
-- Clinical research recruitment and participation analysis
-- Health informatics
-- Quantitative data interpretation
-- Manuscript and report development
+.skill-card h3 {
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+  font-size: 1.08rem;
+  color: var(--card-text);
+  z-index: 1;
+}
+
+.skill-card p {
+  position: relative;
+  margin: 0.35rem 0;
+  color: var(--card-text);
+  z-index: 1;
+}
+
+.skill-note {
+  position: relative;
+  margin-top: 0.8rem;
+  font-size: 0.9rem;
+  color: var(--card-muted);
+  font-style: italic;
+  z-index: 1;
+}
+
+.section-label {
+  margin-top: 2rem;
+  margin-bottom: 0.4rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #F055A5;
+}
+
+.award-card {
+  border-left-color: #FABE37;
+}
+
+@media (max-width: 640px) {
+  .skill-card {
+    padding: 18px;
+  }
+}
+</style>
+```
+
+::::::::::::::::::: skills-section
+::: section-label
+Programming & Tools
+:::
+
+::::::: skills-grid
+::: skill-card
+<h3>Languages</h3>
+
+<p>R</p>
+
+<p>SQL</p>
+
+<p>SAS</p>
+
+<p>Python</p>
+
+<p>SPSS</p>
+
+<p>STATA</p>
+
+<p class="skill-note">
+
+R & SAS primary; Python actively developing
+
+</p>
+:::
+
+::: skill-card
+<h3>Reproducibility & Reporting</h3>
+
+<p>Quarto</p>
+
+<p>Git / GitHub</p>
+
+<p>R Shiny</p>
+
+<p>R Markdown</p>
+:::
+
+::: skill-card
+<h3>Data & Databases</h3>
+
+<p>EHR (Epic, Cerner)</p>
+
+<p>BRFSS / NHANES / SEER</p>
+
+<p>REDCap</p>
+
+<p>Clinical datasets</p>
+
+<p>CDC surveillance data</p>
+:::
+
+::: skill-card
+<h3>Analytics & ML</h3>
+
+<p>Regression modeling</p>
+
+<p>Survey-weighted analysis</p>
+
+<p>Machine learning</p>
+
+<p>NLP / LLMs</p>
+
+<p>Causal inference</p>
+
+<p>Data visualization</p>
+:::
+:::::::
+
+::: section-label
+Domain Expertise
+:::
+
+::::: skills-grid
+::: skill-card
+<h3>Public Health & Epidemiology</h3>
+
+<p>Epidemiologic study design</p>
+
+<p>Real-world evidence (RWE)</p>
+
+<p>Health disparities</p>
+
+<p>Cancer epidemiology</p>
+
+<p>Observational studies</p>
+:::
+
+::: skill-card
+<h3>Clinical & Industry-Facing</h3>
+
+<p>Real-world data (RWD)</p>
+
+<p>Clinical trial design</p>
+
+<p>Diversity & inclusion in research</p>
+
+<p>IRB & regulatory compliance</p>
+
+<p>Stakeholder communication</p>
+:::
+:::::
+
+::: section-label
+Languages
+:::
+
+:::: skills-grid
+::: skill-card
+<h3>Spoken Languages</h3>
+
+<p>Spanish — native</p>
+
+<p>English — fluent</p>
+:::
+::::
+
+::: section-label
+Selected Awards & Recognition
+:::
+
+:::: skills-grid
+::: {.skill-card .award-card}
+<h3>Awards</h3>
+
+<p>AUC Data Science Initiative — Curriculum Development Award (2024)</p>
+
+<p>FIU Three Minute Thesis — Top 10 Finalist (2023)</p>
+
+<p>FIU Outstanding Graduate Teaching Assistant Nominee (2023)</p>
+
+<p>C.V. Starr Scholarship — Florida International University</p>
+:::
+::::
+:::::::::::::::::::
 
 ## Strengths I Bring
 

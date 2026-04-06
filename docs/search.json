@@ -4,7 +4,7 @@
     "href": "skills.html#technical-skills",
     "title": "Anny D. Rodriguez, Ph.D., MPH",
     "section": "Technical Skills",
-    "text": "Technical Skills\nMy work combines epidemiology, data science, and public health research with a strong emphasis on applied analytics, reproducibility, and communication.\n\nProgramming and Software\n\nR\nSAS\nSPSS\nSTATA\nQuarto\nGit and GitHub\n\n\n\nData Sources and Environments\n\nElectronic Health Records (Epic and Cerner)\nClinical datasets\nSurvey datasets\nPublic health surveillance data\nPopulation-level health data\n\n\n\nAnalytic Methods\n\nDescriptive and inferential statistics\nRegression modeling\nPredictive modeling\nMachine learning applications in public health\nSurvey-weighted analysis\nData visualization\nReproducible reporting\nTeaching: MPH 716: R and Health Sciences\n\n\n\nResearch and Applied Practice\n\nEpidemiologic study design\nHealth disparities research\nClinical research recruitment and participation analysis\nHealth informatics\nQuantitative data interpretation\nManuscript and report development"
+    "text": "Technical Skills\nMy work combines epidemiology, data science, and public health research with a strong emphasis on applied analytics, reproducibility, and communication.\n\n\n\nProgramming & Tools\n\n\n\n\nLanguages\n\n\nR\n\n\nSQL\n\n\nSAS\n\n\nPython\n\n\nSPSS\n\n\nSTATA\n\n\nR & SAS primary; Python actively developing\n\n\n\n\nReproducibility & Reporting\n\n\nQuarto\n\n\nGit / GitHub\n\n\nR Shiny\n\n\nR Markdown\n\n\n\n\nData & Databases\n\n\nEHR (Epic, Cerner)\n\n\nBRFSS / NHANES / SEER\n\n\nREDCap\n\n\nClinical datasets\n\n\nCDC surveillance data\n\n\n\n\nAnalytics & ML\n\n\nRegression modeling\n\n\nSurvey-weighted analysis\n\n\nMachine learning\n\n\nNLP / LLMs\n\n\nCausal inference\n\n\nData visualization\n\n\n\n\nDomain Expertise\n\n\n\n\nPublic Health & Epidemiology\n\n\nEpidemiologic study design\n\n\nReal-world evidence (RWE)\n\n\nHealth disparities\n\n\nCancer epidemiology\n\n\nObservational studies\n\n\n\n\nClinical & Industry-Facing\n\n\nReal-world data (RWD)\n\n\nClinical trial design\n\n\nDiversity & inclusion in research\n\n\nIRB & regulatory compliance\n\n\nStakeholder communication\n\n\n\n\nLanguages\n\n\n\n\nSpoken Languages\n\n\nSpanish — native\n\n\nEnglish — fluent\n\n\n\n\nSelected Awards & Recognition\n\n\n\n\nAwards\n\n\nAUC Data Science Initiative — Curriculum Development Award (2024)\n\n\nFIU Three Minute Thesis — Top 10 Finalist (2023)\n\n\nFIU Outstanding Graduate Teaching Assistant Nominee (2023)\n\n\nC.V. Starr Scholarship — Florida International University"
   },
   {
     "objectID": "skills.html#strengths-i-bring",
@@ -49,45 +49,101 @@
     "text": "Public Health Informatics and Data Science Education\nIn addition to applied research, I build practical training experiences that prepare students to use modern analytic tools in public health settings. This includes curriculum development in R, reproducible reporting, and health data analysis.\nFocus areas:\n\nReproducible workflows\nApplied R programming\nData communication\nWorkforce development\n\n\nProject Approach\nAcross projects, I aim to connect rigorous analytic methods with real-world impact. My work is grounded in strong epidemiologic thinking, modern data science methods, and a commitment to improving population health through actionable insight."
   },
   {
-    "objectID": "projects.html#websites-for-my-projects",
-    "href": "projects.html#websites-for-my-projects",
+    "objectID": "projects.html#section",
+    "href": "projects.html#section",
     "title": "What I Do",
-    "section": "Websites for My Projects",
-    "text": "Websites for My Projects\n\nCOVID-19 Shiny Dashboard: COVID-19 Dashboard\nBreast and Cervical Cancer Knowledge - Ph.D. Dissertation: Screening for Me"
+    "section": "2017",
+    "text": "2017\nRodriguez, A. D., Feuer, W. J., Rosa Gameiro, G., Pachon, S., Monsalve, P., Mwanza, J. C., Budenz, D. L., & Vazquez, L. E. (2017). Test-retest reproducibility for arcuate retinal nerve fiber layer volume, area, and thickness. Investigative Ophthalmology & Visual Science, 58(8), 3998."
   },
   {
-    "objectID": "experience.html#assistant-professor",
-    "href": "experience.html#assistant-professor",
-    "title": "Education",
-    "section": "Assistant Professor",
-    "text": "Assistant Professor\nMorehouse School of Medicine\nCurrent\nI lead applied work at the intersection of epidemiology, data science, and public health, combining real-world data with advanced analytics to generate actionable insights. My role integrates teaching, research, and hands-on data analysis using modern statistical and computational approaches.\nCore Skills Demonstrated:\n\nApplied statistical modeling and predictive analytics using large-scale health datasets\n\nMachine learning applications in public health and clinical research\n\nAnalysis of real-world data, including EHR (Epic, Cerner), survey, and clinical datasets\n\nDesign of reproducible data workflows using R, Quarto, and GitHub\n\nTranslation of analytic findings into actionable insights for public health and research\n\nKey Contributions:\n\nDesigned and taught graduate-level courses in Epidemiology, Biostatistics, and Health Informatics with a strong emphasis on applied data science\n\nDeveloped hands-on curriculum using real-world datasets to train students in statistical programming and data analysis\n\nLed research projects focused on cancer screening behaviors, clinical trial participation, and health disparities\n\nMentored students in data analysis, manuscript development, and reproducible research practices"
+    "objectID": "projects.html#section-1",
+    "href": "projects.html#section-1",
+    "title": "What I Do",
+    "section": "2018",
+    "text": "2018\nPatel, N. A., Gregori, N., Reinherz, B., Rodriguez, A. D., Feuer, W. J., & Goldhardt, R. (2018). Cataract surgery and quality of life with correlation to pre-operative potential acuity in patients with age-related macular degeneration. Investigative Ophthalmology & Visual Science, 59(9), 4783."
   },
   {
-    "objectID": "experience.html#research-and-data-science-experience",
-    "href": "experience.html#research-and-data-science-experience",
-    "title": "Education",
-    "section": "Research and Data Science Experience",
-    "text": "Research and Data Science Experience\nAcross my academic and research roles, I have consistently applied data-driven approaches to answer complex public health questions, working with diverse datasets and analytic methods.\nTechnical and Analytical Experience:\n\nBuilt regression and predictive models (linear, logistic, Poisson) to evaluate health outcomes and risk factors\n\nConducted survey-weighted analyses using large national datasets (e.g., BRFSS)\n\nApplied machine learning techniques including decision trees, clustering, and classification methods\n\nPerformed data cleaning, transformation, and feature engineering for large, complex datasets\n\nDeveloped reproducible analysis pipelines and reports using Quarto and version control\n\nData Environments and Sources:\n\nElectronic Health Records (Epic, Cerner)\n\nClinical and observational datasets\n\nNational survey datasets (e.g., BRFSS, NHANES)\n\nPublic health surveillance data"
+    "objectID": "projects.html#section-2",
+    "href": "projects.html#section-2",
+    "title": "What I Do",
+    "section": "2020",
+    "text": "2020\nKrementz, N. A., Landman, A., Gardener, H. E., Rodriguez, A. D., Sur, N. B., Marulanda-Londoño, E., Lau, H. L., Cannon, H., Yavagal, D. R., Nagel, S., Sacco, R. L., Yan, B., Demchuk, A. M., Khatri, P., Romano, J., & Asdaghi, N. (2020). Factors associated with imaging and endovascular therapy decisions for mild ischemic stroke: An international survey. Stroke, 51(Suppl_1), AWP28. https://doi.org/10.1161/str.51.suppl_1.WP28"
   },
   {
-    "objectID": "experience.html#selected-institutional-experience",
-    "href": "experience.html#selected-institutional-experience",
-    "title": "Education",
-    "section": "Selected Institutional Experience",
-    "text": "Selected Institutional Experience\nUniversity of Miami, Miller School of Medicine – Department of Neurology\nResearch Support Specialist\n\nConducted statistical analyses using SPSS and SAS on stroke-related datasets\n\nDesigned and managed REDCap databases and data collection workflows\n\nCoordinated data-sharing efforts with hospitals across Florida to support statewide stroke initiatives\n\nCollaborated with multidisciplinary teams to support clinical and public health research"
+    "objectID": "projects.html#section-3",
+    "href": "projects.html#section-3",
+    "title": "What I Do",
+    "section": "2021",
+    "text": "2021\nBustillo, A., Gardener, H., Wang, K., Chuanhui, D., Rodriguez, A. D., Campo-Bustillo, I., Gutierrez, C. M., Marulanda-Londoño, E. T., Rundek, T., Sacco, R. L., Romano, J. G., & Al Hazzouri, A. Z. (2021). A multi-level exploration of the social determinants of health in Florida: Initial findings from the transitions of care stroke disparities study. Stroke, 52(Suppl_1), AP882. https://doi.org/10.1161/str.52.suppl_1.P882"
   },
   {
-    "objectID": "experience.html#professional-strengths",
-    "href": "experience.html#professional-strengths",
-    "title": "Education",
-    "section": "Professional Strengths",
-    "text": "Professional Strengths\nMy experience reflects a strong combination of domain expertise and technical skill, allowing me to bridge public health, data science, and real-world application.\n\nTranslating complex data into clear, actionable insights\n\nApplying rigorous epidemiologic methods within modern data science frameworks\n\nWorking across clinical, research, and population health data environments\n\nDesigning reproducible, scalable workflows for data analysis\n\nCommunicating findings to both technical and non-technical audiences"
+    "objectID": "projects.html#section-4",
+    "href": "projects.html#section-4",
+    "title": "What I Do",
+    "section": "2022",
+    "text": "2022\nBursac, Z., Williams, R., Rodriguez, A., Bhoite, P., Gonzalez, I., Canizares, C., & Odom, G. (2022). FIU Department of Biostatistics: Overview and our data science work. Data Science Conference US Health 2022, Miami, FL.\nBursac, Z., Rodriguez, A., Williams, R., Bhoite, P., Gonzalez, I., Canizares, C., & Odom, G. (2022). R for data science in public health. International Data Science Conference Europe 2022, Belgrade, Serbia."
   },
   {
-    "objectID": "experience.html#career-direction",
-    "href": "experience.html#career-direction",
+    "objectID": "projects.html#section-5",
+    "href": "projects.html#section-5",
+    "title": "What I Do",
+    "section": "2025",
+    "text": "2025\nBrown, V. E., Campbell, N., Rodriguez, A., & Gerbi, G. B. (2025). Disparities in cervical cancer screening among adult women in the United States: Insights from the 2021 Behavioral Risk Factor Surveillance System. Cancer Research Symposium, Peachtree City, GA.\nWare, T., Campbell, N., Rodriguez, A., & Gerbi, G. B. (2025). Characteristics associated with disparities in colorectal cancer screening among adults aged 18 years and older in the United States: Findings from the 2021 Behavioral Risk Factor Surveillance System. Cancer Research Symposium, Peachtree City, GA.\nSullivan, S., Campbell, N., Rodriguez, A., & Gerbi, G. B. (2025). Sociodemographic disparities in breast cancer screening prevalence among women in the United States: Findings from the 2021 Behavioral Risk Factor Surveillance System. Cancer Research Symposium, Peachtree City, GA."
+  },
+  {
+    "objectID": "projects.html#section-6",
+    "href": "projects.html#section-6",
+    "title": "What I Do",
+    "section": "2018",
+    "text": "2018\nShao, Y., Jiang, H., Wei, Y., Shi, Y., Shi, C., Wright, C. B., Sun, X., Vanner, E. A., Rodriguez, A. D., Lam, B. L., Rundek, T., Baumel, B. S., Gameiro, G. R., Dong, C., & Wang, J. (2018). Visualization of focal thinning of the ganglion cell-inner plexiform layer in patients with mild cognitive impairment and Alzheimer’s disease. Journal of Alzheimer’s Disease, 64(4), 1261–1273. https://doi.org/10.3233/JAD-180070"
+  },
+  {
+    "objectID": "projects.html#section-7",
+    "href": "projects.html#section-7",
+    "title": "What I Do",
+    "section": "2020",
+    "text": "2020\nKrementz, N. A., Landman, A., Gardener, H. E., Arauz, A., Rodriguez, A. D., Cannon, H., Lau, H. L., Sur, N., Marulanda-Londoño, E., Yavagal, D. R., Yan, B., Nagel, S., Demchuk, A. M., Khatri, P., Romano, J. G., & Asdaghi, N. (2020). Endovascular therapy in mild ischemic strokes presenting under 6 hours: An international survey. Journal of Stroke and Cerebrovascular Diseases, 29(11), 105234. https://doi.org/10.1016/j.jstrokecerebrovasdis.2020.105234"
+  },
+  {
+    "objectID": "projects.html#section-8",
+    "href": "projects.html#section-8",
+    "title": "What I Do",
+    "section": "2022",
+    "text": "2022\nRodriguez, A. D., Bursac, Z., Trepka, M. J., Williams, R., & Odom, G. J. (2022). COVID-19 Informational Graphs - Miami-Dade, Broward, and Palm Beach Counties. https://annyrodriguez.shinyapps.io/COVID19/\nAhmed, N. U., Brewster, C., Chang-Martinez, C., Thomas-DeVlugt, L., & Rodriguez, A. D. (2022). Dignity, shame, stigma, or ignorance in avoidance of breast and cervical cancer screenings among women of Caribbean descent. Open Journal of Social Sciences, 10, 496–508. https://doi.org/10.4236/jss.2022.105032"
+  },
+  {
+    "objectID": "projects.html#section-9",
+    "href": "projects.html#section-9",
+    "title": "What I Do",
+    "section": "2023",
+    "text": "2023\nAhmed, N. U., Chowdhury, M. A. B., Rodriguez, A., Azim, S. I., Taskin, T., & Ahmed, S. (2023). Disparities in compliance with colorectal cancer screening: Evidence from two US national surveys. Asian Pacific Journal of Cancer Prevention, 24(4), 1173–1180. https://doi.org/10.31557/APJCP.2023.24.4.1173\nRodriguez, A., Veledar, E., Rojas, P., Tardanico, R., Pekovic, V., & Ahmed, N. (2023). Identification of the cervical cancer screening patterns among Black Caribbean women using dendrogram and decision tree. Open Journal of Social Sciences, 11, 301–316. https://doi.org/10.4236/jss.2023.119021"
+  },
+  {
+    "objectID": "projects.html#section-10",
+    "href": "projects.html#section-10",
+    "title": "What I Do",
+    "section": "2024",
+    "text": "2024\nDavidson, S. R., Idris, M. Y., Awad, C. S., Henriques King, M., Westney, G. E., Ponce, M., Rodriguez, A. D., Lipsey, K. L., Flenaugh, E. L., & Foreman, M. G. (2024). Race adjustment of pulmonary function tests in the diagnosis and management of COPD: A scoping review. International Journal of Chronic Obstructive Pulmonary Disease, 19, 969–980. https://doi.org/10.2147/COPD.S430249"
+  },
+  {
+    "objectID": "projects.html#section-11",
+    "href": "projects.html#section-11",
+    "title": "What I Do",
+    "section": "2025",
+    "text": "2025\nSaha, A., Churchill, V., Rodriguez, A. D., Kursuncu, U., & Idris, M. Y. (2025). Large language models for breast and cervical cancer communication: Mixed-methods evaluation of linguistic quality, safety, and accessibility (Preprint). JMIR Cancer. https://doi.org/10.2196/82971\nBrooks, J., Blankson, P.-K., Campbell, P. M., Cowley, R. A., Yang, T.-S., Oseni, T., Rodriguez, A., & Idris, M. Y. (2025). Physician evaluations of large language model–generated responses to medical questions by region and years in practice: A preliminary study (Preprint). medRxiv. https://doi.org/10.1101/2025.08.15.25333788\nPemu, P., Prude, M., McCaslin, A., Ojemakinde, E., Awad, C., Igwe, K., Rodriguez, A., Foriest, J., & Idris, M. (2025). Detecting conversation topics in recruitment calls of African American participants to the All of Us Research Program using machine learning: Model development and validation study. JMIR Formative Research, 9, e65320. https://doi.org/10.2196/65320"
+  },
+  {
+    "objectID": "projects.html#section-12",
+    "href": "projects.html#section-12",
+    "title": "What I Do",
+    "section": "2026",
+    "text": "2026\nBrooks, J. S., Blankson, P.-K., Campbell, P. M., Cowley, R. A., Yang, T.-S., Oseni, T., Rodriguez, A., & Idris, M. Y. (2026). Assessment of physician preferences for large language model–generated responses across geographic regions and clinical experience levels: Preliminary survey study. JMIR Formative Research, 10, e82487. https://doi.org/10.2196/82487\nWangdak Yuthok, T. Y., Rodriguez, A. D., Ritter, V., Cruz, E. R., Okeke, D. A., Judge, F., Vesom, N., Shen, S., Qin, F., Brown-Johnson, C. G., Palaniappan, L., Onwuanyi, A., & Lewis, E. (2026). Trial of SiTes to IncreAse diversity in clinical TriaLs (TOTAL): A study protocol paper. Contemporary Clinical Trials, 160, 108141. https://doi.org/10.1016/j.cct.2025.108141"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
     "title": "Education",
-    "section": "Career Direction",
-    "text": "Career Direction\nI am interested in opportunities that allow me to apply my expertise in health data science, real-world data, and predictive analytics to support decision-making in healthcare, public health, and industry settings. Let’s connect if you are looking to collaborate."
+    "section": "",
+    "text": "Education\n\nPh.D., Public Health (Epidemiology)\nFlorida International University\n\nC.V. Starr Scholarship Reciepient - 2020-2024\n\nMaster of Public Health (MPH), Epidemiology\nFlorida International University\nBachelor of Science in Public Health\nUniversity of South Florida\n\n\n\n\nExperience\n\nAssistant Professor — Morehouse School of Medicine\nDepartment of Public Health Education · Atlanta, GA · July 2024 – Present\n\nLead applied research and graduate education at the intersection of epidemiology, data science, and health equity.\nTeach graduate courses in Epidemiology, Biostatistics, Research Methods, and Applied R Programming (MPH 716), and develop a new Advanced Data Visualization course.\nDesign and lead the Epidemiology and Health Data Science concentration curriculum.\nConduct observational studies using BRFSS, NHANES, and EHR data to evaluate cancer screening disparities and health outcomes.\nBuild reproducible analytic pipelines in R, Quarto, and GitHub; mentor MPH students in data analysis and manuscript development.\nRecipient of the AUC Data Science Initiative Summer Curriculum Development Award (2024).\n\nKey areas: R · Quarto · GitHub · BRFSS/NHANES · Regression modeling · Curriculum design · Health disparities\n\n\nAHA Diversity in Clinical Trials Postdoctoral Fellow\nStanford University & Morehouse School of Medicine · Atlanta, GA · Jan 2024 – Jul 2024\n\nApplied machine learning and large language models (LLMs) to analyze health datasets in collaboration with cardiologists and cancer epidemiologists.\nCo-authored publications on LLM evaluation for cancer communication and ML-based recruitment analysis, including work published in JMIR Cancer and JMIR Formative Research.\nContributed to the TOTAL clinical trials diversity protocol, now published in Contemporary Clinical Trials (2026).\nMentored junior researchers in data science methods and contributed to grant writing and conference presentations.\n\nKey areas: Python · NLP/LLMs · Machine learning · Clinical trials · Health equity\n\n\nNational Teaching Fellow in Data Science\nNIMHD/RCMI-funded · Morehouse School of Medicine & Florida International University · Sep 2022 – Present\n\nFunded by the National Institute on Minority Health and Health Disparities (NIMHD) through the RCMI network to advance data science education in minority-serving institutions.\nDesigned and taught a national R programming curriculum.\nLed Software Carpentry workshops at the University of Miami and a 10-week national RCMI course.\nPresented on R for data science in public health at the International Data Science Conference Europe 2022 in Belgrade, Serbia.\n\nKey areas: R programming education · NIMHD · RCMI · Workforce development\n\n\nCOVID-19 Data Analyst — Florida International University\nDepartment of Epidemiology · Miami, FL · Aug 2021 – Dec 2023\n\nAnalyzed large-scale surveillance data from the Florida Department of Health and CDC across Miami-Dade, Broward, and Palm Beach counties.\nBuilt an interactive R Shiny dashboard to visualize real-time COVID-19 trends for municipal and county officials; the dashboard was published as a citable output (Rodriguez et al., 2022).\nDeveloped reproducible data workflows for continuous monitoring and reporting.\nContributed to the FIU 3MT Top 10 Finalist presentation (2023).\n\nKey areas: R/Shiny · CDC/FLDOH data · Surveillance · Dashboard design\n\n\nClinical Research Coordinator — University of Miami, Miller School of Medicine\nDepartment of Neurology · Miami, FL · Jun 2019 – Aug 2020\n\nCoordinated NIH- and industry-sponsored stroke clinical trials involving more than 100 participants, including recruitment, screening, and follow-up.\nWorked with EHR data (Epic, Cerner) to support patient-level outcome analyses.\nOversaw IRB submissions, regulatory compliance, and protocol documentation.\n\nKey areas: EHR (Epic/Cerner) · REDCap · Clinical trials · IRB/Compliance\n\n\nResearch Support Specialist — University of Miami, Miller School of Medicine\nDepartment of Neurology · Miami, FL · Aug 2018 – Jun 2019\n\nConducted statistical analyses using SAS and SPSS on stroke and registry datasets.\nDesigned and managed REDCap databases for clinical data collection workflows.\nCoordinated multi-site data sharing with hospitals statewide.\nOrganized the Florida Stroke Registry Annual Meeting.\n\nKey areas: SAS · SPSS · REDCap · Multi-site coordination\n\n\nResearch Analyst — Bascom Palmer Eye Institute\nDepartment of Biostatistics · Miami, FL · Aug 2016 – Aug 2018\n\nPerformed statistical analyses for more than 20 NIH- and NEI-funded ophthalmic studies using SPSS and REDCap.\nCo-authored peer-reviewed publications, including work published in the Journal of Alzheimer’s Disease (2018).\nMaintained IRB compliance documentation and contributed to conference abstracts and manuscripts."
   }
 ]

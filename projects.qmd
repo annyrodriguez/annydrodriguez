@@ -73,7 +73,75 @@ In addition to applied research, I build practical training experiences that pre
 
 Across projects, I aim to connect rigorous analytic methods with real-world impact. My work is grounded in strong epidemiologic thinking, modern data science methods, and a commitment to improving population health through actionable insight.
 
-## Websites for My Projects
 
--   **COVID-19 Shiny Dashboard**: <a href="https://annyrodriguez.shinyapps.io/COVID19/" target="_blank">COVID-19 Dashboard</a>
--   **Breast and Cervical Cancer Knowledge - Ph.D. Dissertation**: <a href="https://annyrodriguez.shinyapps.io/Breast-and-Cervical-Cancer/" target="_blank">Screening for Me</a>
+# [Presentations and Conferences]{style="color: #F055A5;"}
+
+## 2017
+
+**Rodriguez, A. D.**, Feuer, W. J., Rosa Gameiro, G., Pachon, S., Monsalve, P., Mwanza, J. C., Budenz, D. L., & Vazquez, L. E. (2017). *Test-retest reproducibility for arcuate retinal nerve fiber layer volume, area, and thickness*. *Investigative Ophthalmology & Visual Science, 58*(8), 3998.
+
+## 2018
+
+Patel, N. A., Gregori, N., Reinherz, B., **Rodriguez, A. D.**, Feuer, W. J., & Goldhardt, R. (2018). *Cataract surgery and quality of life with correlation to pre-operative potential acuity in patients with age-related macular degeneration*. *Investigative Ophthalmology & Visual Science, 59*(9), 4783.
+
+## 2020
+
+Krementz, N. A., Landman, A., Gardener, H. E., **Rodriguez, A. D.**, Sur, N. B., Marulanda-Londoño, E., Lau, H. L., Cannon, H., Yavagal, D. R., Nagel, S., Sacco, R. L., Yan, B., Demchuk, A. M., Khatri, P., Romano, J., & Asdaghi, N. (2020). *Factors associated with imaging and endovascular therapy decisions for mild ischemic stroke: An international survey*. *Stroke, 51*(Suppl_1), AWP28. [https://doi.org/10.1161/str.51.suppl_1.WP28](https://doi.org/10.1161/str.51.suppl_1.WP28)
+
+## 2021
+
+Bustillo, A., Gardener, H., Wang, K., Chuanhui, D., **Rodriguez, A. D.**, Campo-Bustillo, I., Gutierrez, C. M., Marulanda-Londoño, E. T., Rundek, T., Sacco, R. L., Romano, J. G., & Al Hazzouri, A. Z. (2021). *A multi-level exploration of the social determinants of health in Florida: Initial findings from the transitions of care stroke disparities study*. *Stroke, 52*(Suppl_1), AP882. [https://doi.org/10.1161/str.52.suppl_1.P882](https://doi.org/10.1161/str.52.suppl_1.P882)
+
+## 2022
+
+Bursac, Z., Williams, R., **Rodriguez, A.**, Bhoite, P., Gonzalez, I., Canizares, C., & Odom, G. (2022). *FIU Department of Biostatistics: Overview and our data science work*. *Data Science Conference US Health 2022*, Miami, FL.
+
+Bursac, Z., **Rodriguez, A.**, Williams, R., Bhoite, P., Gonzalez, I., Canizares, C., & Odom, G. (2022). *R for data science in public health*. *International Data Science Conference Europe 2022*, Belgrade, Serbia.
+
+## 2025
+
+Brown, V. E., Campbell, N., **Rodriguez, A.**, & Gerbi, G. B. (2025). *Disparities in cervical cancer screening among adult women in the United States: Insights from the 2021 Behavioral Risk Factor Surveillance System*. *Cancer Research Symposium*, Peachtree City, GA.
+
+Ware, T., Campbell, N., **Rodriguez, A.**, & Gerbi, G. B. (2025). *Characteristics associated with disparities in colorectal cancer screening among adults aged 18 years and older in the United States: Findings from the 2021 Behavioral Risk Factor Surveillance System*. *Cancer Research Symposium*, Peachtree City, GA.
+
+Sullivan, S., Campbell, N., **Rodriguez, A.**, & Gerbi, G. B. (2025). *Sociodemographic disparities in breast cancer screening prevalence among women in the United States: Findings from the 2021 Behavioral Risk Factor Surveillance System*. *Cancer Research Symposium*, Peachtree City, GA.
+
+# [Publications]{style="color: #FF9B28;"}
+
+## 2018
+
+Shao, Y., Jiang, H., Wei, Y., Shi, Y., Shi, C., Wright, C. B., Sun, X., Vanner, E. A., **Rodriguez, A. D.**, Lam, B. L., Rundek, T., Baumel, B. S., Gameiro, G. R., Dong, C., & Wang, J. (2018). Visualization of focal thinning of the ganglion cell-inner plexiform layer in patients with mild cognitive impairment and Alzheimer's disease. *Journal of Alzheimer's Disease, 64*(4), 1261–1273. [https://doi.org/10.3233/JAD-180070](https://doi.org/10.3233/JAD-180070)
+
+## 2020
+
+Krementz, N. A., Landman, A., Gardener, H. E., Arauz, A., **Rodriguez, A. D.**, Cannon, H., Lau, H. L., Sur, N., Marulanda-Londoño, E., Yavagal, D. R., Yan, B., Nagel, S., Demchuk, A. M., Khatri, P., Romano, J. G., & Asdaghi, N. (2020). Endovascular therapy in mild ischemic strokes presenting under 6 hours: An international survey. *Journal of Stroke and Cerebrovascular Diseases, 29*(11), 105234. [https://doi.org/10.1016/j.jstrokecerebrovasdis.2020.105234](https://doi.org/10.1016/j.jstrokecerebrovasdis.2020.105234)
+
+## 2022
+
+**Rodriguez, A. D.**, Bursac, Z., Trepka, M. J., Williams, R., & Odom, G. J. (2022). *COVID-19 Informational Graphs - Miami-Dade, Broward, and Palm Beach Counties*. [https://annyrodriguez.shinyapps.io/COVID19/](https://annyrodriguez.shinyapps.io/COVID19/)
+
+Ahmed, N. U., Brewster, C., Chang-Martinez, C., Thomas-DeVlugt, L., & **Rodriguez, A. D.** (2022). Dignity, shame, stigma, or ignorance in avoidance of breast and cervical cancer screenings among women of Caribbean descent. *Open Journal of Social Sciences, 10*, 496–508. [https://doi.org/10.4236/jss.2022.105032](https://doi.org/10.4236/jss.2022.105032)
+
+## 2023
+
+Ahmed, N. U., Chowdhury, M. A. B., **Rodriguez, A.**, Azim, S. I., Taskin, T., & Ahmed, S. (2023). Disparities in compliance with colorectal cancer screening: Evidence from two US national surveys. *Asian Pacific Journal of Cancer Prevention, 24*(4), 1173–1180. [https://doi.org/10.31557/APJCP.2023.24.4.1173](https://doi.org/10.31557/APJCP.2023.24.4.1173)
+
+**Rodriguez, A.**, Veledar, E., Rojas, P., Tardanico, R., Pekovic, V., & Ahmed, N. (2023). Identification of the cervical cancer screening patterns among Black Caribbean women using dendrogram and decision tree. *Open Journal of Social Sciences, 11*, 301–316. [https://doi.org/10.4236/jss.2023.119021](https://doi.org/10.4236/jss.2023.119021)
+
+## 2024
+
+Davidson, S. R., Idris, M. Y., Awad, C. S., Henriques King, M., Westney, G. E., Ponce, M., **Rodriguez, A. D.**, Lipsey, K. L., Flenaugh, E. L., & Foreman, M. G. (2024). Race adjustment of pulmonary function tests in the diagnosis and management of COPD: A scoping review. *International Journal of Chronic Obstructive Pulmonary Disease, 19*, 969–980. [https://doi.org/10.2147/COPD.S430249](https://doi.org/10.2147/COPD.S430249)
+
+## 2025
+
+Saha, A., Churchill, V., **Rodriguez, A. D.**, Kursuncu, U., & Idris, M. Y. (2025). *Large language models for breast and cervical cancer communication: Mixed-methods evaluation of linguistic quality, safety, and accessibility* (Preprint). *JMIR Cancer*. [https://doi.org/10.2196/82971](https://doi.org/10.2196/82971)
+
+Brooks, J., Blankson, P.-K., Campbell, P. M., Cowley, R. A., Yang, T.-S., Oseni, T., **Rodriguez, A.**, & Idris, M. Y. (2025). *Physician evaluations of large language model–generated responses to medical questions by region and years in practice: A preliminary study* (Preprint). *medRxiv*. [https://doi.org/10.1101/2025.08.15.25333788](https://doi.org/10.1101/2025.08.15.25333788)
+
+Pemu, P., Prude, M., McCaslin, A., Ojemakinde, E., Awad, C., Igwe, K., **Rodriguez, A.**, Foriest, J., & Idris, M. (2025). Detecting conversation topics in recruitment calls of African American participants to the All of Us Research Program using machine learning: Model development and validation study. *JMIR Formative Research, 9*, e65320. [https://doi.org/10.2196/65320](https://doi.org/10.2196/65320)
+
+## 2026
+
+Brooks, J. S., Blankson, P.-K., Campbell, P. M., Cowley, R. A., Yang, T.-S., Oseni, T., **Rodriguez, A.**, & Idris, M. Y. (2026). Assessment of physician preferences for large language model–generated responses across geographic regions and clinical experience levels: Preliminary survey study. *JMIR Formative Research, 10*, e82487. [https://doi.org/10.2196/82487](https://doi.org/10.2196/82487)
+
+Wangdak Yuthok, T. Y., **Rodriguez, A. D.**, Ritter, V., Cruz, E. R., Okeke, D. A., Judge, F., Vesom, N., Shen, S., Qin, F., Brown-Johnson, C. G., Palaniappan, L., Onwuanyi, A., & Lewis, E. (2026). Trial of SiTes to IncreAse diversity in clinical TriaLs (TOTAL): A study protocol paper. *Contemporary Clinical Trials, 160*, 108141. [https://doi.org/10.1016/j.cct.2025.108141](https://doi.org/10.1016/j.cct.2025.108141)

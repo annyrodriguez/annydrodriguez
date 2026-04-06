@@ -11,7 +11,7 @@ website:
       - href: experience.qmd
         text: Experience
       - href: projects.qmd
-        text: Projects
+        text: Projects & Publications
       - href: skills.qmd
         text: Skills
       - href: contact.qmd

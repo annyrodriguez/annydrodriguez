@@ -99,7 +99,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./projects.html"> 
-<span class="menu-text">Projects</span></a>
+<span class="menu-text">Projects &amp; Publications</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./skills.html" aria-current="page"> 
@@ -125,13 +125,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#technical-skills" id="toc-technical-skills" class="nav-link active" data-scroll-target="#technical-skills">Technical Skills</a>
-  <ul class="collapse">
-  <li><a href="#programming-and-software" id="toc-programming-and-software" class="nav-link" data-scroll-target="#programming-and-software">Programming and Software</a></li>
-  <li><a href="#data-sources-and-environments" id="toc-data-sources-and-environments" class="nav-link" data-scroll-target="#data-sources-and-environments">Data Sources and Environments</a></li>
-  <li><a href="#analytic-methods" id="toc-analytic-methods" class="nav-link" data-scroll-target="#analytic-methods">Analytic Methods</a></li>
-  <li><a href="#research-and-applied-practice" id="toc-research-and-applied-practice" class="nav-link" data-scroll-target="#research-and-applied-practice">Research and Applied Practice</a></li>
-  </ul></li>
+  <li><a href="#technical-skills" id="toc-technical-skills" class="nav-link active" data-scroll-target="#technical-skills">Technical Skills</a></li>
   <li><a href="#strengths-i-bring" id="toc-strengths-i-bring" class="nav-link" data-scroll-target="#strengths-i-bring">Strengths I Bring</a></li>
   </ul>
 </nav>
@@ -148,51 +142,278 @@ ul.task-list li input[type="checkbox"] {
 <section id="technical-skills" class="level2">
 <h2 class="anchored" data-anchor-id="technical-skills">Technical Skills</h2>
 <p>My work combines <strong>epidemiology, data science, and public health research</strong> with a strong emphasis on <strong>applied analytics, reproducibility, and communication</strong>.</p>
-<section id="programming-and-software" class="level3">
-<h3 class="anchored" data-anchor-id="programming-and-software">Programming and Software</h3>
-<ul>
-<li>R</li>
-<li>SAS</li>
-<li>SPSS</li>
-<li>STATA</li>
-<li>Quarto</li>
-<li>Git and GitHub</li>
-</ul>
-</section>
-<section id="data-sources-and-environments" class="level3">
-<h3 class="anchored" data-anchor-id="data-sources-and-environments">Data Sources and Environments</h3>
-<ul>
-<li>Electronic Health Records (Epic and Cerner)</li>
-<li>Clinical datasets</li>
-<li>Survey datasets</li>
-<li>Public health surveillance data</li>
-<li>Population-level health data</li>
-</ul>
-</section>
-<section id="analytic-methods" class="level3">
-<h3 class="anchored" data-anchor-id="analytic-methods">Analytic Methods</h3>
-<ul>
-<li>Descriptive and inferential statistics</li>
-<li>Regression modeling</li>
-<li>Predictive modeling</li>
-<li>Machine learning applications in public health</li>
-<li>Survey-weighted analysis</li>
-<li>Data visualization</li>
-<li>Reproducible reporting</li>
-<li>Teaching: <a href="https://annyrodriguez.github.io/mph716/" target="_blank">MPH 716: R and Health Sciences</a></li>
-</ul>
-</section>
-<section id="research-and-applied-practice" class="level3">
-<h3 class="anchored" data-anchor-id="research-and-applied-practice">Research and Applied Practice</h3>
-<ul>
-<li>Epidemiologic study design</li>
-<li>Health disparities research</li>
-<li>Clinical research recruitment and participation analysis</li>
-<li>Health informatics</li>
-<li>Quantitative data interpretation</li>
-<li>Manuscript and report development</li>
-</ul>
-</section>
+<style>
+:root {
+  --card-bg: #BFdFF3;
+  --card-border: #CCD537;
+  --card-accent: #F055A5;
+  --card-text: #7A88FE;
+  --card-muted: #FF9B28;
+  --card-shadow: 0 10px 24px rgba(0, 0, 0, 0.06);
+  --card-shadow-hover: 0 18px 36px rgba(0, 0, 0, 0.10);
+}
+
+.skills-section {
+  margin-top: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.skills-section h2 {
+  margin-bottom: 0.8rem;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 18px;
+  margin-top: 1rem;
+}
+
+.skill-card {
+  position: relative;
+  background: linear-gradient(180deg, #ffffff 0%, var(--card-bg) 100%);
+  border: 1px solid var(--card-border);
+  border-left: 5px solid var(--card-accent);
+  border-radius: 18px;
+  padding: 20px 20px 18px 20px;
+  box-shadow: var(--card-shadow);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+  overflow: hidden;
+}
+
+.skill-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--card-shadow-hover);
+  border-color: #FF9B28;
+}
+
+.skill-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at top right, rgba(125, 143, 139, 0.10), transparent 42%);
+  pointer-events: none;
+}
+
+.skill-card h3 {
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+  font-size: 1.08rem;
+  color: var(--card-text);
+  z-index: 1;
+}
+
+.skill-card p {
+  position: relative;
+  margin: 0.35rem 0;
+  color: var(--card-text);
+  z-index: 1;
+}
+
+.skill-note {
+  position: relative;
+  margin-top: 0.8rem;
+  font-size: 0.9rem;
+  color: var(--card-muted);
+  font-style: italic;
+  z-index: 1;
+}
+
+.section-label {
+  margin-top: 2rem;
+  margin-bottom: 0.4rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #F055A5;
+}
+
+.award-card {
+  border-left-color: #FABE37;
+}
+
+@media (max-width: 640px) {
+  .skill-card {
+    padding: 18px;
+  }
+}
+</style>
+<div class="skills-section">
+<div class="section-label">
+<p>Programming &amp; Tools</p>
+</div>
+<div class="skills-grid">
+<div class="skill-card">
+<h3 class="anchored">
+Languages
+</h3>
+<p>
+R
+</p>
+<p>
+SQL
+</p>
+<p>
+SAS
+</p>
+<p>
+Python
+</p>
+<p>
+SPSS
+</p>
+<p>
+STATA
+</p>
+<p class="skill-note">
+</p><p>R &amp; SAS primary; Python actively developing</p>
+<p></p>
+</div>
+<div class="skill-card">
+<h3 class="anchored">
+Reproducibility &amp; Reporting
+</h3>
+<p>
+Quarto
+</p>
+<p>
+Git / GitHub
+</p>
+<p>
+R Shiny
+</p>
+<p>
+R Markdown
+</p>
+</div>
+<div class="skill-card">
+<h3 class="anchored">
+Data &amp; Databases
+</h3>
+<p>
+EHR (Epic, Cerner)
+</p>
+<p>
+BRFSS / NHANES / SEER
+</p>
+<p>
+REDCap
+</p>
+<p>
+Clinical datasets
+</p>
+<p>
+CDC surveillance data
+</p>
+</div>
+<div class="skill-card">
+<h3 class="anchored">
+Analytics &amp; ML
+</h3>
+<p>
+Regression modeling
+</p>
+<p>
+Survey-weighted analysis
+</p>
+<p>
+Machine learning
+</p>
+<p>
+NLP / LLMs
+</p>
+<p>
+Causal inference
+</p>
+<p>
+Data visualization
+</p>
+</div>
+</div>
+<div class="section-label">
+<p>Domain Expertise</p>
+</div>
+<div class="skills-grid">
+<div class="skill-card">
+<h3 class="anchored">
+Public Health &amp; Epidemiology
+</h3>
+<p>
+Epidemiologic study design
+</p>
+<p>
+Real-world evidence (RWE)
+</p>
+<p>
+Health disparities
+</p>
+<p>
+Cancer epidemiology
+</p>
+<p>
+Observational studies
+</p>
+</div>
+<div class="skill-card">
+<h3 class="anchored">
+Clinical &amp; Industry-Facing
+</h3>
+<p>
+Real-world data (RWD)
+</p>
+<p>
+Clinical trial design
+</p>
+<p>
+Diversity &amp; inclusion in research
+</p>
+<p>
+IRB &amp; regulatory compliance
+</p>
+<p>
+Stakeholder communication
+</p>
+</div>
+</div>
+<div class="section-label">
+<p>Languages</p>
+</div>
+<div class="skills-grid">
+<div class="skill-card">
+<h3 class="anchored">
+Spoken Languages
+</h3>
+<p>
+Spanish — native
+</p>
+<p>
+English — fluent
+</p>
+</div>
+</div>
+<div class="section-label">
+<p>Selected Awards &amp; Recognition</p>
+</div>
+<div class="skills-grid">
+<div class="skill-card award-card">
+<h3 class="anchored">
+Awards
+</h3>
+<p>
+AUC Data Science Initiative — Curriculum Development Award (2024)
+</p>
+<p>
+FIU Three Minute Thesis — Top 10 Finalist (2023)
+</p>
+<p>
+FIU Outstanding Graduate Teaching Assistant Nominee (2023)
+</p>
+<p>
+C.V. Starr Scholarship — Florida International University
+</p>
+</div>
+</div>
+</div>
 </section>
 <section id="strengths-i-bring" class="level2">
 <h2 class="anchored" data-anchor-id="strengths-i-bring">Strengths I Bring</h2>
