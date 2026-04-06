@@ -1,49 +1,14 @@
 [
   {
-    "objectID": "resume.html#assistant-professor",
-    "href": "resume.html#assistant-professor",
-    "title": "Education",
-    "section": "Assistant Professor",
-    "text": "Assistant Professor\nMorehouse School of Medicine\nCurrent\nI lead applied work at the intersection of epidemiology, data science, and public health, combining real-world data with advanced analytics to generate actionable insights. My role integrates teaching, research, and hands-on data analysis using modern statistical and computational approaches.\nCore Skills Demonstrated:\n\nApplied statistical modeling and predictive analytics using large-scale health datasets\n\nMachine learning applications in public health and clinical research\n\nAnalysis of real-world data, including EHR (Epic, Cerner), survey, and clinical datasets\n\nDesign of reproducible data workflows using R, Quarto, and GitHub\n\nTranslation of analytic findings into actionable insights for public health and research\n\nKey Contributions:\n\nDesigned and taught graduate-level courses in Epidemiology, Biostatistics, and Health Informatics with a strong emphasis on applied data science\n\nDeveloped hands-on curriculum using real-world datasets to train students in statistical programming and data analysis\n\nLed research projects focused on cancer screening behaviors, clinical trial participation, and health disparities\n\nMentored students in data analysis, manuscript development, and reproducible research practices"
-  },
-  {
-    "objectID": "resume.html#research-and-data-science-experience",
-    "href": "resume.html#research-and-data-science-experience",
-    "title": "Education",
-    "section": "Research and Data Science Experience",
-    "text": "Research and Data Science Experience\nAcross my academic and research roles, I have consistently applied data-driven approaches to answer complex public health questions, working with diverse datasets and analytic methods.\nTechnical and Analytical Experience:\n\nBuilt regression and predictive models (linear, logistic, Poisson) to evaluate health outcomes and risk factors\n\nConducted survey-weighted analyses using large national datasets (e.g., BRFSS)\n\nApplied machine learning techniques including decision trees, clustering, and classification methods\n\nPerformed data cleaning, transformation, and feature engineering for large, complex datasets\n\nDeveloped reproducible analysis pipelines and reports using Quarto and version control\n\nData Environments and Sources:\n\nElectronic Health Records (Epic, Cerner)\n\nClinical and observational datasets\n\nNational survey datasets (e.g., BRFSS, NHANES)\n\nPublic health surveillance data"
-  },
-  {
-    "objectID": "resume.html#selected-institutional-experience",
-    "href": "resume.html#selected-institutional-experience",
-    "title": "Education",
-    "section": "Selected Institutional Experience",
-    "text": "Selected Institutional Experience\nUniversity of Miami, Miller School of Medicine – Department of Neurology\nResearch Support Specialist\n\nConducted statistical analyses using SPSS and SAS on stroke-related datasets\n\nDesigned and managed REDCap databases and data collection workflows\n\nCoordinated data-sharing efforts with hospitals across Florida to support statewide stroke initiatives\n\nCollaborated with multidisciplinary teams to support clinical and public health research"
-  },
-  {
-    "objectID": "resume.html#professional-strengths",
-    "href": "resume.html#professional-strengths",
-    "title": "Education",
-    "section": "Professional Strengths",
-    "text": "Professional Strengths\nMy experience reflects a strong combination of domain expertise and technical skill, allowing me to bridge public health, data science, and real-world application.\n\nTranslating complex data into clear, actionable insights\n\nApplying rigorous epidemiologic methods within modern data science frameworks\n\nWorking across clinical, research, and population health data environments\n\nDesigning reproducible, scalable workflows for data analysis\n\nCommunicating findings to both technical and non-technical audiences"
-  },
-  {
-    "objectID": "resume.html#career-direction",
-    "href": "resume.html#career-direction",
-    "title": "Education",
-    "section": "Career Direction",
-    "text": "Career Direction\nI am interested in opportunities that allow me to apply my expertise in health data science, real-world data, and predictive analytics to support decision-making in healthcare, public health, and industry settings. Let’s connect if you are looking to collaborate."
-  },
-  {
-    "objectID": "courses.html#technical-skills",
-    "href": "courses.html#technical-skills",
+    "objectID": "skills.html#technical-skills",
+    "href": "skills.html#technical-skills",
     "title": "Anny D. Rodriguez, Ph.D., MPH",
     "section": "Technical Skills",
     "text": "Technical Skills\nMy work combines epidemiology, data science, and public health research with a strong emphasis on applied analytics, reproducibility, and communication.\n\nProgramming and Software\n\nR\nSAS\nSPSS\nSTATA\nQuarto\nGit and GitHub\n\n\n\nData Sources and Environments\n\nElectronic Health Records (Epic and Cerner)\nClinical datasets\nSurvey datasets\nPublic health surveillance data\nPopulation-level health data\n\n\n\nAnalytic Methods\n\nDescriptive and inferential statistics\nRegression modeling\nPredictive modeling\nMachine learning applications in public health\nSurvey-weighted analysis\nData visualization\nReproducible reporting\nTeaching: MPH 716: R and Health Sciences\n\n\n\nResearch and Applied Practice\n\nEpidemiologic study design\nHealth disparities research\nClinical research recruitment and participation analysis\nHealth informatics\nQuantitative data interpretation\nManuscript and report development"
   },
   {
-    "objectID": "courses.html#strengths-i-bring",
-    "href": "courses.html#strengths-i-bring",
+    "objectID": "skills.html#strengths-i-bring",
+    "href": "skills.html#strengths-i-bring",
     "title": "Anny D. Rodriguez, Ph.D., MPH",
     "section": "Strengths I Bring",
     "text": "Strengths I Bring\nBeyond technical tools, I bring a strong ability to connect analytic work with meaningful public health questions. I enjoy translating complex data into clear insights, collaborating across disciplines, and designing work that is rigorous, reproducible, and useful in practice."
@@ -89,5 +54,40 @@
     "title": "What I Do",
     "section": "Websites for My Projects",
     "text": "Websites for My Projects\n\nCOVID-19 Shiny Dashboard: COVID-19 Dashboard\nBreast and Cervical Cancer Knowledge - Ph.D. Dissertation: Screening for Me"
+  },
+  {
+    "objectID": "experience.html#assistant-professor",
+    "href": "experience.html#assistant-professor",
+    "title": "Education",
+    "section": "Assistant Professor",
+    "text": "Assistant Professor\nMorehouse School of Medicine\nCurrent\nI lead applied work at the intersection of epidemiology, data science, and public health, combining real-world data with advanced analytics to generate actionable insights. My role integrates teaching, research, and hands-on data analysis using modern statistical and computational approaches.\nCore Skills Demonstrated:\n\nApplied statistical modeling and predictive analytics using large-scale health datasets\n\nMachine learning applications in public health and clinical research\n\nAnalysis of real-world data, including EHR (Epic, Cerner), survey, and clinical datasets\n\nDesign of reproducible data workflows using R, Quarto, and GitHub\n\nTranslation of analytic findings into actionable insights for public health and research\n\nKey Contributions:\n\nDesigned and taught graduate-level courses in Epidemiology, Biostatistics, and Health Informatics with a strong emphasis on applied data science\n\nDeveloped hands-on curriculum using real-world datasets to train students in statistical programming and data analysis\n\nLed research projects focused on cancer screening behaviors, clinical trial participation, and health disparities\n\nMentored students in data analysis, manuscript development, and reproducible research practices"
+  },
+  {
+    "objectID": "experience.html#research-and-data-science-experience",
+    "href": "experience.html#research-and-data-science-experience",
+    "title": "Education",
+    "section": "Research and Data Science Experience",
+    "text": "Research and Data Science Experience\nAcross my academic and research roles, I have consistently applied data-driven approaches to answer complex public health questions, working with diverse datasets and analytic methods.\nTechnical and Analytical Experience:\n\nBuilt regression and predictive models (linear, logistic, Poisson) to evaluate health outcomes and risk factors\n\nConducted survey-weighted analyses using large national datasets (e.g., BRFSS)\n\nApplied machine learning techniques including decision trees, clustering, and classification methods\n\nPerformed data cleaning, transformation, and feature engineering for large, complex datasets\n\nDeveloped reproducible analysis pipelines and reports using Quarto and version control\n\nData Environments and Sources:\n\nElectronic Health Records (Epic, Cerner)\n\nClinical and observational datasets\n\nNational survey datasets (e.g., BRFSS, NHANES)\n\nPublic health surveillance data"
+  },
+  {
+    "objectID": "experience.html#selected-institutional-experience",
+    "href": "experience.html#selected-institutional-experience",
+    "title": "Education",
+    "section": "Selected Institutional Experience",
+    "text": "Selected Institutional Experience\nUniversity of Miami, Miller School of Medicine – Department of Neurology\nResearch Support Specialist\n\nConducted statistical analyses using SPSS and SAS on stroke-related datasets\n\nDesigned and managed REDCap databases and data collection workflows\n\nCoordinated data-sharing efforts with hospitals across Florida to support statewide stroke initiatives\n\nCollaborated with multidisciplinary teams to support clinical and public health research"
+  },
+  {
+    "objectID": "experience.html#professional-strengths",
+    "href": "experience.html#professional-strengths",
+    "title": "Education",
+    "section": "Professional Strengths",
+    "text": "Professional Strengths\nMy experience reflects a strong combination of domain expertise and technical skill, allowing me to bridge public health, data science, and real-world application.\n\nTranslating complex data into clear, actionable insights\n\nApplying rigorous epidemiologic methods within modern data science frameworks\n\nWorking across clinical, research, and population health data environments\n\nDesigning reproducible, scalable workflows for data analysis\n\nCommunicating findings to both technical and non-technical audiences"
+  },
+  {
+    "objectID": "experience.html#career-direction",
+    "href": "experience.html#career-direction",
+    "title": "Education",
+    "section": "Career Direction",
+    "text": "Career Direction\nI am interested in opportunities that allow me to apply my expertise in health data science, real-world data, and predictive analytics to support decision-making in healthcare, public health, and industry settings. Let’s connect if you are looking to collaborate."
   }
 ]

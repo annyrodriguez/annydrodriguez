@@ -17,11 +17,11 @@ I work at the **intersection** of **analytics, public health, and applied resear
 
 # Areas of Focus
 
-- Real-world data analysis using EHR, survey, and clinical datasets
-- Predictive modeling and machine learning for health applications
-- Health equity and disparities research
-- Clinical research recruitment and representation
-- Public health informatics and reproducible analytics
+-   Real-world data analysis using EHR, survey, and clinical datasets
+-   Predictive modeling and machine learning for health applications
+-   Health equity and disparities research
+-   Clinical research recruitment and representation
+-   Public health informatics and reproducible analytics
 
 # Selected Projects
 
@@ -31,10 +31,10 @@ I have developed analytic approaches to better understand factors associated wit
 
 **Focus areas:**
 
-- Predictive modeling
-- Risk factor identification
-- Screening behavior analysis
-- Health disparities
+-   Predictive modeling
+-   Risk factor identification
+-   Screening behavior analysis
+-   Health disparities
 
 ## [Clinical Trial Recruitment Optimization]{style="color: #7A88FE;"}
 
@@ -42,10 +42,10 @@ My research has examined recruitment conversations and participation barriers am
 
 **Focus areas:**
 
-- Representation in clinical research
-- Recruitment analytics
-- Natural language processing applications
-- Health equity
+-   Representation in clinical research
+-   Recruitment analytics
+-   Natural language processing applications
+-   Health equity
 
 ## [Population Health Analytics Using National Survey Data]{style="color: #FF9B28;"}
 
@@ -53,10 +53,10 @@ I use large-scale public health datasets, including survey data, to investigate 
 
 **Focus areas:**
 
-- Survey-weighted analysis
-- Preventive care utilization
-- Child and maternal health
-- Population-level disparities
+-   Survey-weighted analysis
+-   Preventive care utilization
+-   Child and maternal health
+-   Population-level disparities
 
 ## [Public Health Informatics and Data Science Education]{style="color: #98C54E;"}
 
@@ -64,17 +64,16 @@ In addition to applied research, I build practical training experiences that pre
 
 **Focus areas:**
 
-- Reproducible workflows
-- Applied R programming
-- Data communication
-- Workforce development
+-   Reproducible workflows
+-   Applied R programming
+-   Data communication
+-   Workforce development
 
 ### Project Approach
 
 Across projects, I aim to connect rigorous analytic methods with real-world impact. My work is grounded in strong epidemiologic thinking, modern data science methods, and a commitment to improving population health through actionable insight.
 
-
 ## Websites for My Projects
 
-- **COVID-19 Shiny Dashboard**: <a href="https://annyrodriguez.shinyapps.io/COVID19/" target="_blank">COVID-19 Dashboard</a>
-- **Breast and Cervical Cancer Knowledge - Ph.D. Dissertation**: <a href="https://annyrodriguez.shinyapps.io/Breast-and-Cervical-Cancer/" target="_blank">Screening for Me</a>
+-   **COVID-19 Shiny Dashboard**: <a href="https://annyrodriguez.shinyapps.io/COVID19/" target="_blank">COVID-19 Dashboard</a>
+-   **Breast and Cervical Cancer Knowledge - Ph.D. Dissertation**: <a href="https://annyrodriguez.shinyapps.io/Breast-and-Cervical-Cancer/" target="_blank">Screening for Me</a>

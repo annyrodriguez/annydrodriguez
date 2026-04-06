@@ -8,11 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: resume.qmd
+      - href: experience.qmd
         text: Experience
       - href: projects.qmd
         text: Projects
-      - href: courses.qmd
+      - href: skills.qmd
         text: Skills
       - href: contact.qmd
         text: Contact
